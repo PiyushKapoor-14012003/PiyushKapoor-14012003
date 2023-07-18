@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 👋 Hi, I’m PiyushKapoor-14012003 
+- 👀 I’m interested in Java programming
+- 🌱 I’m currently learning C,c++
+- 👯 I’m looking to collaborate on 
+- 📫 How to reach me? you can contact me through mail 2k22cscys2213057@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I love to learn new things and programming
 <!--
 **PiyushKapoor-14012003/PiyushKapoor-14012003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
