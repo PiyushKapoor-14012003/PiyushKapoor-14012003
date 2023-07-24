@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m PiyushKapoor-14012003 
 - 👀 I’m interested in Java programming
-- 🌱 I’m currently learning C,c++
+- 🌱 I’m currently learning C,C++
 - 👯 I’m looking to collaborate on 
 - 📫 How to reach me? you can contact me through mail 2k22cscys2213057@gmail.com
 - 😄 Pronouns: He/him
